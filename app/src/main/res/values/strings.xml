@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="email_hint">Type your Email</string>
+    <string name="appname">My Blog App</string>
+    <string name="pass_hint">Password</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="registr_btn_txt">Registration</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Account Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="create_user_btn_text">Create Account</string>
+    <string name="to_loginPage_btn_text">Go to Login</string>
+    <string name="register_confirm_pass">Cofirm Password</string>
+    <string name="settings_account_name">Напишите своё имя</string>
+    <string name="settings_name_btn" > Save Account Settings </string>
+    <string name="back_to_main">Back</string>
+    <string name="hello_username">Wellcome</string>
+</resources>

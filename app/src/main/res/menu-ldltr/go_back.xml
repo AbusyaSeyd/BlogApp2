@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+
+    <item
+        android:id="@+id/back"
+        android:icon="@drawable/ic_action_back"
+        android:menuCategory="container"
+        android:title="@string/back_to_main"
+        android:visible="true"
+        app:showAsAction="always|withText" />
+</menu>

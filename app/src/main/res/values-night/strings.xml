@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Blog App</string>
+    <string name="email_hint" translatable="false">Type your Email</string>
+    <string name="appname" translatable="false">My Blog App</string>
+    <string name="pass_hint" translatable="false">Password</string>
+    <string name="login_btn_txt" translatable="false">Login</string>
+    <string name="registr_btn_txt" translatable="false">Registration</string>
+    <string name="action_search" translatable="false">Search</string>
+    <string name="action_settings" translatable="false">Account Settings</string>
+    <string name="action_logout" translatable="false">Logout</string>
+    <string name="create_user_btn_text" translatable="false">Create Account</string>
+    <string name="to_loginPage_btn_text" translatable="false">Go to Login</string>
+    <string name="register_confirm_pass" translatable="false">Cofirm Password</string>
+    <string name="settings_name_btn" />
+    <string name="back_to_main">Back</string>
+</resources>
